@@ -8,5 +8,5 @@
  * @author Ferran
  */
 public class Main {
-    
+    int a;
 }
